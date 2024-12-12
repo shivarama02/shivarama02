@@ -3,7 +3,7 @@
 
 <div align="center">
  
-![](https://raw.githubusercontent.com/alvin-dennis/alvin-dennis/master/assets/snake.svg)
+![]((https://raw.githubusercontent.com/shivarama02/shivarama02/refs/heads/main/snake.svg))
 </div>
 
 

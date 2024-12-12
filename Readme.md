@@ -4,7 +4,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 
 <h3 align="left"> Socials</h3>
-<a href="https://www.linkedin.com/in/shivarama-495587281" target="blank"> <p align="center"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Alvin Dennis" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/shivarama-495587281/" target="blank"> <p align="center"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Alvin Dennis" height="30" width="40" /></a>
 <a href="https://instagram.com/__shivarama__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Alvin Dennis" height="30" width="40" /></a>
 </p>
 

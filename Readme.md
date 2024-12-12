@@ -1,10 +1,10 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Kode+Mono&pause=1000&color=49F781&random=false&width=435&lines=Programmer)
 
 
-<div align="center">
- 
-![]((https://raw.githubusercontent.com/shivarama02/shivarama02/refs/heads/main/snake.svg))
+><div align="center">
+   ![](https://raw.githubusercontent.com/shivarama02/shivarama02/refs/heads/main/snake.svg)
 </div>
+
 
 
 ![](https://hit.yhype.me/github/profile?user_id=94307781)

@@ -2,7 +2,10 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<div align="center">
+  <img height="200" width="400" src="https://i.pinimg.com/originals/0e/0d/9f/0e0d9fc7a1e651ff13bd0499bb94d593.gif"  />
+</div>
+
 
 ###
 
@@ -35,9 +38,8 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=Shivarama02" alt="Layout with last medium posts"  />
-</div>
+###
+
 
 ###
 

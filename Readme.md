@@ -1,4 +1,6 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Audiowide&size=40&duration=3000&pause=1000&color=008000&center=true&vCenter=true&width=800&lines=Hi+;I'm+Shivarama;A+passionate+Full+Satck+Developer+)](https://git.io/typing-svg)
+
+###
 
 ###
 
@@ -110,18 +112,7 @@
 </div>
 
 
- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-<br>
  
- <div align="center">
- <p align="center"">
-<img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="20%">
-</p>
 
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-
-<br>
-
-<div></div>
 </div>

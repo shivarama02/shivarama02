@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Audiowide&size=40&duration=3000&pause=1000&color=008000&center=true&vCenter=true&width=800&lines=Hi+;I'm+Shivarama;A+passionate+Full+Satck+Developer+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Audiowide&size=40&duration=3000&pause=1000&color=008000&center=true&vCenter=true&width=800&lines=Hello+World!;I'm+Shivarama;A+passionate+Full+Satck+Developer+)](https://git.io/typing-svg)
 
 ###
 

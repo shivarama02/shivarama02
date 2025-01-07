@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Audiowide&size=40&duration=3000&pause=1000&color=008000&center=true&vCenter=true&width=800&lines=Hello+World!;I'm+Shivarama;A+passionate+Full+Stack+Developer+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Jersey+15&size=40&duration=3000&pause=1000&color=008000&center=true&vCenter=true&width=800&lines=Hello+World!;I'm+Shivarama;A+passionate+Full+Stack+Developer+)](https://git.io/typing-svg)
 
 ###
 
@@ -13,7 +13,7 @@
 
 
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Kode+Mono&pause=1000&center=true&vCenter=true&color=49F781&random=false&width=800&lines=Programmer)
+<!--- ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Kode+Mono&pause=1000&center=true&vCenter=true&color=49F781&random=false&width=800&lines=Programmer) --->
 
 
 

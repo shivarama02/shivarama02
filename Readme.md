@@ -5,7 +5,7 @@
 ###
 
 <div align="center">
-  <img height="400" width="800" src="https://i.redd.it/zturtz3gr70e1.gif"/>
+  <img height="200" width="400" src="https://img1.picmix.com/output/stamp/normal/3/7/3/8/208373_48bf0.gif"/>
 </div>
 
 

@@ -27,6 +27,8 @@
 
 ![](https://hit.yhype.me/github/profile?user_id=94307781)
 
+![visitors](https://vbr.nathanchung.dev/badge?page_id=Shivarama02.Shivarama02&color=00cf00)
+
 ><div align="center">
    ![](https://raw.githubusercontent.com/shivarama02/shivarama02/refs/heads/main/snake.svg)
 </div>

@@ -47,19 +47,19 @@ I primarily work with **Python, Django, React.js, JavaScript, SQL, and REST APIs
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,javascript,java,c,html,css" />
+<img src="https://skillicons.dev/icons?i=python,javascript,c,html,css" />
 </p>
 
 ### Frameworks & Libraries
 
 <p>
-<img src="https://skillicons.dev/icons?i=django,react,jquery" />
+<img src="https://skillicons.dev/icons?i=django,react" />
 </p>
 
 ### Databases
 
 <p>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite" />
 </p>
 
 ### Tools & Technologies

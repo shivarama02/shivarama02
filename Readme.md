@@ -75,8 +75,8 @@ I primarily work with **Python, Django, React.js, JavaScript, SQL, and REST APIs
 ```text
 Frontend        → React.js • JavaScript • HTML • CSS
 Backend         → Python • Django • REST APIs
-Databases       → MySQL • MongoDB
-Programming     → Python • Java • C
+Databases       → MySQL • MongoDB • Sqlite3
+Programming     → Python • C
 Tools           → Git • GitHub • Linux • VS Code • Postman
 ```
 
